@@ -11,5 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "vite": "^4.4.4"
+  },
+  "dependencies": {
+    "svelte-dnd-action": "^0.9.24"
   }
 }
