@@ -10,12 +10,12 @@
 <style>
       .navbar {
         position: fixed;
-        top: 0;
-        width: 100%;
-        background-color: #f8f9fa;
-        padding: 1em;
-        border-bottom: 1px solid #dee2e6;
-        z-index: 1000;
+    top: 0;
+    width: 100vw;
+    
+    padding: 1em;
+    /* border-bottom: 1px solid #dee2e6; */
+    z-index: 1000;
     }
 
     a {
