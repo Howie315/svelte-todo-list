@@ -25,6 +25,7 @@
         margin-bottom: 10px;
         border-radius: 5px;
         background-color: #f5f5f5;
+        color: black;
         transition: background-color 0.3s;
     }
     .todo-item:hover {

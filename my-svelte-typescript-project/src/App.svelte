@@ -1,5 +1,8 @@
 <script lang="ts">
     import Router  from 'svelte-spa-router';
+        import Route  from 'svelte-spa-router';
+  
+   
     import TodoList from './components/TodoList.svelte';
     import About from './components/About.svelte';
     import Navbar from './components/Navbar.svelte';

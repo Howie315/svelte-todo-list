@@ -19,4 +19,11 @@
         
         height: calc(100vh - 50px); /* Adjust this value based on your Navbar height */
     }
+   #about .h1{
+    color: black;
+   }
+
+   #about .p{
+    color: grey;
+   }
 </style>
